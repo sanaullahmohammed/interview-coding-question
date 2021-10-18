@@ -1,12 +1,16 @@
 Case #0:
+INPUT:
 4
 2
 -3 5
 5 -3
 13 -11
 10 -8
+OUTPUT:
+3
 
 Case #1:
+INPUT:
 5
 2
 -3 5
@@ -14,9 +18,14 @@ Case #1:
 13 -11
 10 -8
 7 -5
+OUTPUT:
+Invalid Input
 
 Case #2:
+INPUT:
 2
 3
 -3 5 9
 5 -3 1
+OUTPUT:
+Invalid Input
